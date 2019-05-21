@@ -43,7 +43,7 @@ header .wave2{
 	font-family: Ubuntu;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 36px;
+	font-size: 30px;
 	line-height: 48px;
 	display: flex;
 	align-items: center;
@@ -54,10 +54,10 @@ header .wave2{
 .subTitle{
 	padding-bottom: 25px;
 	
-	font-family: Roboto;
+	font-family: Ubuntu;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 30px;
+	font-size: 24px;
 	line-height: 35px;
 	letter-spacing: -0.03em;
 	text-transform: capitalize;
@@ -67,11 +67,11 @@ header .wave2{
 .mission{
 	padding-bottom: 50px;
 	
-	font-family: Roboto;
+	font-family: Ubuntu;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 24px;
-	line-height: 32px;
+	font-size: 20px;
+	line-height: 28px;
 	color: #000000;
 }
 
@@ -80,7 +80,7 @@ header .wave2{
     background-color: #FFE4E1;
     margin-top: -22px;
     margin-left: 15px;
-	font-family: Roboto;
+	font-family: Ubuntu;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 16px;
@@ -93,7 +93,7 @@ header .wave2{
 	background-color:  #FFE4E1;
 	border: 1px solid #FF685A;
 	border-radius: 5px;
-	font-family: Roboto;
+	font-family: Ubuntu;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 18px;
@@ -137,8 +137,13 @@ header .wave2{
 	border: 1px solid #E94534 !important;
 	box-shadow: 0 0 0 0.2rem rgba(233,69,52,.5) !important;
 }
-
-
+.new
+{ right: 1px;
+	position: absolute;
+  top: 8px;
+  width: 561px;
+  height: 508px;
+}
 
 .sectionTitle{
 	font-family: Ubuntu;
@@ -175,11 +180,11 @@ header .wave2{
 }
 
 .whyOptions li{
-	margin-top:15px;
-	font-family: Roboto;
+	margin-top:5px;
+	font-family: Ubuntu;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 24px;
+	font-size: 20px;
 	line-height: 32px;
 	color: #000000;
 }
@@ -194,10 +199,6 @@ header .wave2{
 	margin-top:50px;
 }
 
-.opinion .mission{
-	margin-top:25px;
-	text-align:center;
-}
 
 .phones{
     margin-left: -200px;
